@@ -1,3 +1,8 @@
+# onnx files
+/models/eugene.onnx
+/models/alexa.onnx
+
+
 # Python bytecode
 __pycache__/
 *.pyc
