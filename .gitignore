@@ -1,0 +1,66 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Environment files
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.env/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
+
+# Python egg and distribution
+*.egg
+*.egg-info
+dist/
+build/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Coverage reports
+.coverage
+*.cover
+*.nib
+*.py,cover
+
+# Testing
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.tox/
+*.nox/
+
+# dotenv
+.env
+*.env
