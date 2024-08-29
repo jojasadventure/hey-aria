@@ -2,6 +2,8 @@
 
 A Python application for real-time wake word detection using customizable ONNX models.
 
+Made possible by the library for https://github.com/sujitvasanth/openwakeword-simplified
+
 ## Features
 
 - Real-time audio processing
